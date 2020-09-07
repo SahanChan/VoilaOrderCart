@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "233595963943",
+    "firebase_url": "https://voilaordercarttest.firebaseio.com",
+    "project_id": "voilaordercarttest",
+    "storage_bucket": "voilaordercarttest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233595963943:android:0241225d4925967db25c02",
+        "android_client_info": {
+          "package_name": "com.example.OrderManagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233595963943-p07egcaocs3f4j9ojh63arf6a8v7qvl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCqWBDqAu-DxXRo0VsoEUr0c3X_XgjSaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233595963943-p07egcaocs3f4j9ojh63arf6a8v7qvl1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
